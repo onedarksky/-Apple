@@ -13,6 +13,7 @@
 		07501C5A273BA6C6008D11BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07501C58273BA6C6008D11BD /* Main.storyboard */; };
 		07501C5C273BA6C8008D11BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07501C5B273BA6C8008D11BD /* Assets.xcassets */; };
 		07501C5F273BA6C8008D11BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07501C5D273BA6C8008D11BD /* LaunchScreen.storyboard */; };
+		07501C67273BAA26008D11BD /* ApplePrintAirpods ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07501C66273BAA26008D11BD /* ApplePrintAirpods ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		07501C5B273BA6C8008D11BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		07501C5E273BA6C8008D11BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		07501C60273BA6C8008D11BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07501C66273BAA26008D11BD /* ApplePrintAirpods ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ApplePrintAirpods ViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				07501C52273BA6C6008D11BD /* AppDelegate.swift */,
 				07501C54273BA6C6008D11BD /* SceneDelegate.swift */,
 				07501C56273BA6C6008D11BD /* ViewController.swift */,
+				07501C66273BAA26008D11BD /* ApplePrintAirpods ViewController.swift */,
 				07501C58273BA6C6008D11BD /* Main.storyboard */,
 				07501C5B273BA6C8008D11BD /* Assets.xcassets */,
 				07501C5D273BA6C8008D11BD /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07501C57273BA6C6008D11BD /* ViewController.swift in Sources */,
+				07501C67273BAA26008D11BD /* ApplePrintAirpods ViewController.swift in Sources */,
 				07501C53273BA6C6008D11BD /* AppDelegate.swift in Sources */,
 				07501C55273BA6C6008D11BD /* SceneDelegate.swift in Sources */,
 			);
